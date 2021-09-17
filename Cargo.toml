@@ -2,7 +2,7 @@
 name = "cataclysm-ws"
 license = "MIT"
 description = "Auxiliary websockets crate for cataclysm"
-repository = "https://github.com/Malanche/cataclysm-ws.git"
+repository = "https://github.com/Malanche/cataclysm-ws"
 authors = ["Carlos Malanche <carlos.malanche.f@gmail.com>"]
 version = "0.1.0"
 edition = "2018"
